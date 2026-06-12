@@ -1,0 +1,51 @@
+Patient_ID,Blood_Group,Allergies,Insurance,Treatment_History,Vaccination_Records
+P001,O+,Penicillin,Star Health,Diabetes Medication,COVID-19 Hepatitis-B
+P002,A+,None,HDFC ERGO,Fever Treatment,COVID-19
+P003,B+,Dust Allergy,ICICI Lombard,Heart Monitoring,COVID-19 Flu Vaccine
+P004,O-,None,Star Health,Migraine Treatment,COVID-19
+P005,AB+,Seafood Allergy,Niva Bupa,BP Medication,COVID-19 Hepatitis-B
+P006,B-,Pollen Allergy,Care Health,Asthma Treatment,COVID-19
+P007,A-,None,HDFC ERGO,Kidney Observation,COVID-19
+P008,O+,None,ICICI Lombard,General Checkup,COVID-19
+P009,B+,Penicillin,Star Health,Diabetes Medication,COVID-19 Flu Vaccine
+P010,A+,None,Care Health,Thyroid Monitoring,COVID-19
+P011,O+,Dust Allergy,Niva Bupa,Heart Medication,COVID-19
+P012,AB-,None,Star Health,BP Monitoring,COVID-19 Hepatitis-B
+P013,B-,None,HDFC ERGO,Fever Treatment,COVID-19
+P014,A-,Pollen Allergy,ICICI Lombard,Migraine Treatment,COVID-19
+P015,O-,None,Care Health,Kidney Medication,COVID-19
+P016,B+,Dust Allergy,Niva Bupa,Asthma Treatment,COVID-19 Flu Vaccine
+P017,A+,Penicillin,Star Health,Diabetes Monitoring,COVID-19
+P018,O+,None,HDFC ERGO,General Checkup,COVID-19
+P019,AB+,Seafood Allergy,ICICI Lombard,Heart Treatment,COVID-19
+P020,B-,None,Care Health,Thyroid Medication,COVID-19
+P021,A+,Dust Allergy,Niva Bupa,BP Monitoring,COVID-19
+P022,O-,None,Star Health,Fever Treatment,COVID-19
+P023,B+,Penicillin,HDFC ERGO,Diabetes Treatment,COVID-19
+P024,AB-,None,ICICI Lombard,Migraine Observation,COVID-19
+P025,O+,Pollen Allergy,Care Health,Kidney Monitoring,COVID-19
+P026,A-,Dust Allergy,Niva Bupa,Asthma Medication,COVID-19
+P027,B-,None,Star Health,Heart Treatment,COVID-19 Flu Vaccine
+P028,A+,None,HDFC ERGO,General Checkup,COVID-19
+P029,O-,Penicillin,ICICI Lombard,BP Medication,COVID-19
+P030,B+,Seafood Allergy,Care Health,Diabetes Monitoring,COVID-19
+P031,AB+,None,Niva Bupa,Heart Monitoring,COVID-19
+P032,O+,Dust Allergy,Star Health,Thyroid Treatment,COVID-19
+P033,A-,None,HDFC ERGO,Fever Observation,COVID-19
+P034,B-,Pollen Allergy,ICICI Lombard,Migraine Treatment,COVID-19
+P035,A+,None,Care Health,Kidney Treatment,COVID-19
+P036,O-,Dust Allergy,Niva Bupa,Asthma Observation,COVID-19
+P037,B+,Penicillin,Star Health,Diabetes Medication,COVID-19
+P038,AB-,None,HDFC ERGO,General Checkup,COVID-19
+P039,O+,Seafood Allergy,ICICI Lombard,Heart Medication,COVID-19
+P040,A+,None,Care Health,Thyroid Monitoring,COVID-19
+P041,B-,Dust Allergy,Niva Bupa,BP Treatment,COVID-19
+P042,O-,None,Star Health,Fever Medication,COVID-19
+P043,AB+,Penicillin,HDFC ERGO,Diabetes Monitoring,COVID-19
+P044,A-,None,ICICI Lombard,Migraine Observation,COVID-19
+P045,B+,Pollen Allergy,Care Health,Kidney Medication,COVID-19
+P046,O+,Dust Allergy,Niva Bupa,Asthma Treatment,COVID-19
+P047,A+,None,Star Health,Heart Monitoring,COVID-19
+P048,B-,None,HDFC ERGO,General Checkup,COVID-19
+P049,O-,Seafood Allergy,ICICI Lombard,BP Monitoring,COVID-19
+P050,AB+,Penicillin,Care Health,Diabetes Treatment,COVID-19

@@ -1,0 +1,51 @@
+Bed_ID,Ward,Type,Status
+B001,General,Normal,Available
+B002,General,Normal,Occupied
+B003,General,Normal,Available
+B004,General,Normal,Occupied
+B005,General,Normal,Available
+B006,General,Normal,Occupied
+B007,General,Normal,Available
+B008,General,Normal,Occupied
+B009,General,Normal,Available
+B010,General,Normal,Occupied
+B011,ICU,ICU,Occupied
+B012,ICU,ICU,Available
+B013,ICU,ICU,Occupied
+B014,ICU,ICU,Available
+B015,ICU,ICU,Occupied
+B016,ICU,ICU,Available
+B017,ICU,ICU,Occupied
+B018,ICU,ICU,Available
+B019,ICU,ICU,Occupied
+B020,ICU,ICU,Available
+B021,Emergency,Emergency,Available
+B022,Emergency,Emergency,Occupied
+B023,Emergency,Emergency,Available
+B024,Emergency,Emergency,Occupied
+B025,Emergency,Emergency,Available
+B026,Emergency,Emergency,Occupied
+B027,Emergency,Emergency,Available
+B028,Emergency,Emergency,Occupied
+B029,Emergency,Emergency,Available
+B030,Emergency,Emergency,Occupied
+B031,Pediatric,Child Care,Available
+B032,Pediatric,Child Care,Occupied
+B033,Pediatric,Child Care,Available
+B034,Pediatric,Child Care,Occupied
+B035,Pediatric,Child Care,Available
+B036,Pediatric,Child Care,Occupied
+B037,Pediatric,Child Care,Available
+B038,Pediatric,Child Care,Occupied
+B039,Pediatric,Child Care,Available
+B040,Pediatric,Child Care,Occupied
+B041,Maternity,Maternity,Available
+B042,Maternity,Maternity,Occupied
+B043,Maternity,Maternity,Available
+B044,Maternity,Maternity,Occupied
+B045,Maternity,Maternity,Available
+B046,Maternity,Maternity,Occupied
+B047,Maternity,Maternity,Available
+B048,Maternity,Maternity,Occupied
+B049,Maternity,Maternity,Available
+B050,Maternity,Maternity,Occupied

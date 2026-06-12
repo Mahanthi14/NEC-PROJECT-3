@@ -1,0 +1,51 @@
+Patient_ID,Name,Age,Gender,Blood_Group,Disease,Phone,Address
+P001,Ravi Kumar,45,Male,O+,Diabetes,9876543210,Guntur
+P002,Anitha Reddy,32,Female,A+,Fever,9876543211,Vijayawada
+P003,Suresh Babu,58,Male,B+,Heart Disease,9876543212,Narasaraopeta
+P004,Priya Sharma,28,Female,O-,Migraine,9876543213,Hyderabad
+P005,Karthik Rao,40,Male,AB+,Hypertension,9876543214,Tenali
+P006,Meena Kumari,36,Female,B-,Asthma,9876543215,Guntur
+P007,Arjun Varma,50,Male,A-,Kidney Disease,9876543216,Vijayawada
+P008,Divya Sri,24,Female,O+,Normal Checkup,9876543217,Nellore
+P009,Rahul Naidu,47,Male,B+,Diabetes,9876543218,Ongole
+P010,Sneha Reddy,30,Female,A+,Thyroid,9876543219,Guntur
+P011,Vamsi Krishna,52,Male,O+,Heart Disease,9876543220,Vizag
+P012,Lakshmi Devi,41,Female,AB-,Hypertension,9876543221,Tenali
+P013,Naveen Kumar,35,Male,B-,Fever,9876543222,Guntur
+P014,Kavya Rao,27,Female,A-,Migraine,9876543223,Vijayawada
+P015,Mohan Reddy,60,Male,O-,Kidney Disease,9876543224,Narasaraopeta
+P016,Sowmya Sri,33,Female,B+,Asthma,9876543225,Hyderabad
+P017,Prasad Kumar,49,Male,A+,Diabetes,9876543226,Guntur
+P018,Harika Devi,26,Female,O+,Normal Checkup,9876543227,Tenali
+P019,Ramesh Babu,55,Male,AB+,Heart Disease,9876543228,Ongole
+P020,Pooja Sharma,29,Female,B-,Thyroid,9876543229,Vijayawada
+P021,Ajay Kumar,38,Male,A+,Hypertension,9876543230,Guntur
+P022,Deepika Reddy,31,Female,O-,Fever,9876543231,Nellore
+P023,Charan Teja,44,Male,B+,Diabetes,9876543232,Vizag
+P024,Nandini Rao,25,Female,AB-,Migraine,9876543233,Hyderabad
+P025,Srinivas Rao,57,Male,O+,Kidney Disease,9876543234,Guntur
+P026,Keerthi Priya,34,Female,A-,Asthma,9876543235,Vijayawada
+P027,Manoj Kumar,46,Male,B-,Heart Disease,9876543236,Tenali
+P028,Yamini Sri,23,Female,A+,Normal Checkup,9876543237,Narasaraopeta
+P029,Satish Naidu,51,Male,O-,Hypertension,9876543238,Ongole
+P030,Swathi Reddy,37,Female,B+,Diabetes,9876543239,Guntur
+P031,Venkat Rao,59,Male,AB+,Heart Disease,9876543240,Vizag
+P032,Madhavi Devi,42,Female,O+,Thyroid,9876543241,Vijayawada
+P033,Sai Kumar,39,Male,A-,Fever,9876543242,Nellore
+P034,Bhavya Sri,28,Female,B-,Migraine,9876543243,Guntur
+P035,Rajesh Babu,53,Male,A+,Kidney Disease,9876543244,Hyderabad
+P036,Anjali Rao,35,Female,O-,Asthma,9876543245,Tenali
+P037,Kiran Kumar,48,Male,B+,Diabetes,9876543246,Narasaraopeta
+P038,Mounika Reddy,27,Female,AB-,Normal Checkup,9876543247,Vijayawada
+P039,Hari Prasad,56,Male,O+,Heart Disease,9876543248,Guntur
+P040,Neha Sharma,30,Female,A+,Thyroid,9876543249,Ongole
+P041,Rohit Varma,43,Male,B-,Hypertension,9876543250,Vizag
+P042,Sravani Devi,33,Female,O-,Fever,9876543251,Nellore
+P043,Teja Naidu,50,Male,AB+,Diabetes,9876543252,Guntur
+P044,Renuka Sri,26,Female,A-,Migraine,9876543253,Hyderabad
+P045,Balaji Rao,61,Male,B+,Kidney Disease,9876543254,Vijayawada
+P046,Bindu Reddy,36,Female,O+,Asthma,9876543255,Tenali
+P047,Surya Kumar,47,Male,A+,Heart Disease,9876543256,Narasaraopeta
+P048,Lasya Priya,24,Female,B-,Normal Checkup,9876543257,Guntur
+P049,Chandra Rao,54,Male,O-,Hypertension,9876543258,Vizag
+P050,Indu Sharma,29,Female,AB+,Diabetes,9876543259,Vijayawada

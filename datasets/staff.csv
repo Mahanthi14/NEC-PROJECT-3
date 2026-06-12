@@ -1,0 +1,51 @@
+Staff_ID,Name,Role,Department,Shift
+S001,Ramesh Kumar,Nurse,ICU,Morning
+S002,Anjali Devi,Nurse,Emergency,Night
+S003,Ravi Teja,Technician,Lab,Evening
+S004,Priya Sharma,Receptionist,Front Desk,Morning
+S005,Kiran Kumar,Nurse,General Ward,Morning
+S006,Meena Reddy,Nurse,ICU,Evening
+S007,Arjun Rao,Technician,Radiology,Night
+S008,Divya Sri,Receptionist,Front Desk,Evening
+S009,Rahul Naidu,Nurse,Emergency,Morning
+S010,Sneha Devi,Nurse,Pediatric,Night
+S011,Vamsi Krishna,Technician,Lab,Morning
+S012,Lakshmi Priya,Nurse,Maternity,Evening
+S013,Naveen Kumar,Receptionist,Front Desk,Night
+S014,Kavya Reddy,Nurse,ICU,Morning
+S015,Mohan Rao,Technician,Pharmacy,Evening
+S016,Sowmya Devi,Nurse,General Ward,Night
+S017,Prasad Kumar,Nurse,Emergency,Morning
+S018,Harika Sri,Technician,Radiology,Evening
+S019,Ramesh Babu,Receptionist,Front Desk,Morning
+S020,Pooja Sharma,Nurse,Pediatric,Night
+S021,Ajay Kumar,Nurse,ICU,Evening
+S022,Deepika Reddy,Technician,Lab,Morning
+S023,Charan Teja,Nurse,Maternity,Night
+S024,Nandini Rao,Receptionist,Front Desk,Evening
+S025,Srinivas Rao,Nurse,General Ward,Morning
+S026,Keerthi Priya,Technician,Pharmacy,Night
+S027,Manoj Kumar,Nurse,Emergency,Evening
+S028,Yamini Sri,Nurse,ICU,Morning
+S029,Satish Naidu,Technician,Radiology,Night
+S030,Swathi Reddy,Receptionist,Front Desk,Morning
+S031,Venkat Rao,Nurse,Pediatric,Evening
+S032,Madhavi Devi,Nurse,Maternity,Night
+S033,Sai Kumar,Technician,Lab,Morning
+S034,Bhavya Sri,Nurse,General Ward,Evening
+S035,Rajesh Babu,Receptionist,Front Desk,Night
+S036,Anjali Rao,Nurse,ICU,Morning
+S037,Kiran Varma,Technician,Pharmacy,Evening
+S038,Mounika Reddy,Nurse,Emergency,Night
+S039,Hari Prasad,Nurse,Pediatric,Morning
+S040,Neha Sharma,Receptionist,Front Desk,Evening
+S041,Rohit Kumar,Technician,Radiology,Night
+S042,Sravani Devi,Nurse,Maternity,Morning
+S043,Teja Naidu,Nurse,General Ward,Evening
+S044,Renuka Sri,Technician,Lab,Night
+S045,Balaji Rao,Receptionist,Front Desk,Morning
+S046,Bindu Reddy,Nurse,ICU,Evening
+S047,Surya Kumar,Nurse,Emergency,Night
+S048,Lasya Priya,Technician,Pharmacy,Morning
+S049,Chandra Rao,Nurse,Pediatric,Evening
+S050,Indu Sharma,Receptionist,Front Desk,Night

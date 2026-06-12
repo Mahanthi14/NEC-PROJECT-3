@@ -1,0 +1,51 @@
+Resource_ID,Resource_Name,Category,Available_Units,Total_Units
+R001,Ventilator,Respiratory,15,20
+R002,Oxygen Cylinder,Respiratory,50,60
+R003,Patient Monitor,Monitoring,35,45
+R004,Wheelchair,Mobility,25,30
+R005,Defibrillator,Emergency,8,10
+R006,Syringe Pump,Infusion,18,25
+R007,Infusion Pump,Infusion,20,28
+R008,ECG Machine,Diagnostics,12,15
+R009,X-Ray Machine,Imaging,4,5
+R010,CT Scanner,Imaging,2,3
+R011,MRI Scanner,Imaging,1,2
+R012,Ultrasound Machine,Imaging,6,8
+R013,Hospital Bed,Furniture,68,150
+R014,ICU Bed,Furniture,7,25
+R015,Emergency Bed,Furniture,8,20
+R016,Oxygen Mask,Respiratory,120,150
+R017,Nebulizer,Respiratory,22,30
+R018,Suction Machine,Emergency,14,18
+R019,Crash Cart,Emergency,5,8
+R020,Blood Pressure Monitor,Monitoring,40,50
+R021,Thermometer,Monitoring,85,100
+R022,Pulse Oximeter,Monitoring,55,70
+R023,Glucometer,Diagnostics,35,45
+R024,Stethoscope,General,90,100
+R025,Surgical Kit,Surgery,25,35
+R026,Anesthesia Machine,Surgery,6,8
+R027,Operation Table,Surgery,4,6
+R028,Patient Trolley,Mobility,20,25
+R029,Ambulance,Transport,3,5
+R030,Hospital Laptop,IT,30,40
+R031,Desktop System,IT,40,50
+R032,Printer,IT,12,15
+R033,UPS System,IT,18,25
+R034,Blood Storage Unit,Laboratory,6,8
+R035,Microscope,Laboratory,14,20
+R036,Centrifuge Machine,Laboratory,8,10
+R037,Lab Refrigerator,Laboratory,5,8
+R038,Patient Gown,General,180,250
+R039,Surgical Gloves,General,800,1000
+R040,Face Mask,General,1500,2000
+R041,PPE Kit,General,250,300
+R042,Oxygen Concentrator,Respiratory,12,18
+R043,Dialysis Machine,Nephrology,5,8
+R044,Heart Monitor,Cardiology,16,20
+R045,Venturi Mask,Respiratory,40,50
+R046,IV Stand,General,65,80
+R047,Examination Table,General,12,15
+R048,Baby Incubator,Pediatric,4,6
+R049,Fetal Monitor,Maternity,5,8
+R050,Emergency Light,Emergency,25,30
